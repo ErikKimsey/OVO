@@ -3,8 +3,8 @@ import { FlowerDoom } from './flowerdoom/FlowerDoom.js';
 import { Neon } from './neon/Neon.js';
 import { Oogles } from './oogles/Oogles.js';
 import { Dirge } from './dirge/Dirge.js';
-import { ItemList } from '/Users/erikkimsey/Desktop/OT2/src/home/components/ItemList.js';
-import { Item } from '/Users/erikkimsey/Desktop/OT2/src/home/components/Item.js';
+import { ItemList } from '/Users/erikkimsey/Desktop/OVO/src/home/components/ItemList.js';
+import { Item } from '/Users/erikkimsey/Desktop/OVO/src/home/components/Item.js';
 
 // export default Fatty;
 // export default FlowerDoom;

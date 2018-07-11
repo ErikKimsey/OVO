@@ -5,12 +5,12 @@ import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Style from "./list.scss";
 import Item from "./Item.js";
-import Fatty from '/Users/erikkimsey/Desktop/OT2/src/home/components/fatty/Fatty.js';
-import FlowerDoom from '/Users/erikkimsey/Desktop/OT2/src/home/components/flowerdoom/FlowerDoom.js';
-import Neon from '/Users/erikkimsey/Desktop/OT2/src/home/components/neon/Neon.js';
-import Oogles from '/Users/erikkimsey/Desktop/OT2/src/home/components/oogles/Oogles.js';
-import Dirge from '/Users/erikkimsey/Desktop/OT2/src/home/components/dirge/Dirge.js';
-import routes from '/Users/erikkimsey/Desktop/OT2/src/home/routes.js';
+import Fatty from '/Users/erikkimsey/Desktop/OVO/src/home/components/fatty/Fatty.js';
+import FlowerDoom from '/Users/erikkimsey/Desktop/OVO/src/home/components/flowerdoom/FlowerDoom.js';
+import Neon from '/Users/erikkimsey/Desktop/OVO/src/home/components/neon/Neon.js';
+import Oogles from '/Users/erikkimsey/Desktop/OVO/src/home/components/oogles/Oogles.js';
+import Dirge from '/Users/erikkimsey/Desktop/OVO/src/home/components/dirge/Dirge.js';
+import routes from '/Users/erikkimsey/Desktop/OVO/src/home/routes.js';
 import Home from '../Home.js';
 
 

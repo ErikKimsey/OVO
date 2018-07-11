@@ -1,13 +1,13 @@
 import React from 'react';
 import { Redirect } from 'react-router';
 // import { FlowerDoom, Oogles, Neon, Fatty, Dirge} from '../index.js';
-import Fatty from '/Users/erikkimsey/Desktop/OT2/src/home/components/fatty/Fatty.js';
-import FlowerDoom from '/Users/erikkimsey/Desktop/OT2/src/home/components/flowerdoom/FlowerDoom.js';
-import Neon from '/Users/erikkimsey/Desktop/OT2/src/home/components/neon/Neon.js';
-import Oogles from '/Users/erikkimsey/Desktop/OT2/src/home/components/oogles/Oogles.js';
-import Dirge from '/Users/erikkimsey/Desktop/OT2/src/home/components/dirge/Dirge.js';
-import ItemList from '/Users/erikkimsey/Desktop/OT2/src/home/components/ItemList.js';
-import Item from '/Users/erikkimsey/Desktop/OT2/src/home/components/Item.js';
+import Fatty from '/Users/erikkimsey/Desktop/OVO/src/home/components/fatty/Fatty.js';
+import FlowerDoom from '/Users/erikkimsey/Desktop/OVO/src/home/components/flowerdoom/FlowerDoom.js';
+import Neon from '/Users/erikkimsey/Desktop/OVO/src/home/components/neon/Neon.js';
+import Oogles from '/Users/erikkimsey/Desktop/OVO/src/home/components/oogles/Oogles.js';
+import Dirge from '/Users/erikkimsey/Desktop/OVO/src/home/components/dirge/Dirge.js';
+import ItemList from '/Users/erikkimsey/Desktop/OVO/src/home/components/ItemList.js';
+import Item from '/Users/erikkimsey/Desktop/OVO/src/home/components/Item.js';
 console.log(FlowerDoom);
 
 const SKETCHES = [
